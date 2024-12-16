@@ -1,7 +1,5 @@
-# SimpleDEX-Ethereum-App
-## simpleDEX Proyecto Final
-
-Proyecto sobre intercambio descentralizado simple (DEX) basado en la red Ethereum. Este proyecto permite a los usuarios intercambiar, añadir y retirar liquidez entre tokens ERC-20, todo en un entorno sencillo y accesible.
+# SimpleDEX
+## simpleDEX 
 
 ## Funcionalidades
 
@@ -22,12 +20,8 @@ Antes de ejecutar este proyecto, asegúrate de tener:
 ## Instalación
 
 1. Cloná este repositorio a tu máquina local:
-   ```bash
-   git clone https://github.com/TuUsuario/SimpleDEX-Final-Proyect.git
  
 2. Navegá al directorio del proyecto:
-   ```bash
-   cd SimpleDEX-Final-Proyect
 
 3. Abrí el archivo index.html en tu navegador.
 
@@ -38,13 +32,4 @@ Añade o retira liquidez usando las opciones disponibles.
 Realiza intercambios entre los tokens disponibles.
 Consulta el precio de los tokens en la red Ethereum.
 
-## Contribuciones
-Si querés contribuir a este proyecto, sentite libre de hacer un fork y enviar un pull request con tus mejoras o correcciones. Asegurate de seguir buenas prácticas de desarrollo y realizar pruebas adecuadas.
 
-## Licencia
-Este proyecto está bajo la licencia MIT. Puedes consultar el archivo `LICENCIA.md` https://github.com/mocarena/SimpleDEX-Final-Proyect/blob/main/LICENCIA.md para más detalles.
-
-## Agradecimientos
-Este proyecto fue creado utilizando la biblioteca ethers.js para interactuar con la blockchain de Ethereum, y está basado en el concepto de un intercambio descentralizado (DEX).
-
-Este archivo `README.md` está diseñado para ser informativo y proporciona instrucciones claras sobre cómo utilizar tu DEX basado en Ethereum, además de dar la bienvenida a posibles colaboradores.
